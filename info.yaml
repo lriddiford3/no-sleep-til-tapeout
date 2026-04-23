@@ -24,7 +24,6 @@ pinout:
   ui[5]: "Fondue"
   ui[6]: "Tacos"
   ui[7]: "Sun Burn"
-  ui[8]: "Sunscreen"
 
   # Outputs
   uo[0]: "output or"
