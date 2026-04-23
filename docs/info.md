@@ -19,4 +19,4 @@ All other combinations of inputs *should* give False.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One LED for output
